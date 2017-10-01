@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="appium" duration-ms="608" started-at="2017-10-01T14:48:29Z" finished-at="2017-10-01T14:48:30Z">
+    <groups>
+      <group name="regression">
+        <method signature="driver_summation.print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" class="sep_dataprovider.driver_summation"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="RegSet1" duration-ms="608" started-at="2017-10-01T14:48:29Z" finished-at="2017-10-01T14:48:30Z">
+      <class name="sep_dataprovider.driver_summation">
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="16" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=3.0, Exp_Result=5.0, Num1=2.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="0" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=7.0, Exp_Result=2.0, Num1=6.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="0" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=5.0, Exp_Result=6.0, Num1=4.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="0" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=6.0, Exp_Result=7.0, Num1=5.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="0" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=8.0, Exp_Result=15.0, Num1=7.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Map)[pri:0, instance:sep_dataprovider.driver_summation@69a3d1d]" name="print" duration-ms="0" started-at="2017-10-01T20:18:30Z" data-provider="dp_sum" finished-at="2017-10-01T20:18:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Num2=4.0, Exp_Result=7.0, Num1=3.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- sep_dataprovider.driver_summation -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- appium -->
+</testng-results>
